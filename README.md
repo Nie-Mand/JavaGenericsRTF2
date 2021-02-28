@@ -97,7 +97,7 @@ class Main {
 
 ## More Coding.. Key-Value Pair ig!? Let's make a Small Redis Clone..
 > No Refernce when Defining, Allowing All Types!
-````java
+```java
 // K for Keys, V for Values..
 class Redis <K, V> {
   private K key;
@@ -130,7 +130,7 @@ class Main {
 }
 ```
 > Now you should use whatevr you specified when Creating the Object
-```
+```java
 class Redis <K, V> {
   private K key;
   private V value;
